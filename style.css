@@ -151,7 +151,6 @@ li {
     grid-row: 1 / 3;
     display: grid;
     grid-template-rows: 0.5fr 5fr;
-    margin-bottom: 20px;
 }
 
 .projects>h2 {
